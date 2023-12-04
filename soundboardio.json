@@ -41,6 +41,10 @@
       "filename": "game-show-laughin.mp3"
     },
     {
+      "name": "Let's start the game - transition",
+      "filename": "next-question.mp3"
+    },
+    {
       "name": "Answer - wrong - buzzer",
       "filename": "buzzer-wrong-answer-gaming-sound-effect-hd.mp3"
     },
@@ -53,8 +57,12 @@
       "filename": "lost-a-life-game-over-sound-effect-8-bits.mp3"
     },
     {
-      "name": "Next Question - transitions",
-      "filename": "next-question.mp3"
+      "name": "Next Question - transition",
+      "filename": "Let's Play.mp3"
+    },
+    {
+      "name": "Answer - correct",
+      "filename": "winner-bell-game-show-sound-effect.mp3"
     }
   ]
 }
