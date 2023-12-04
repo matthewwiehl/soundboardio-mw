@@ -33,12 +33,28 @@
       "filename": "small-television.mp3"
     },
     {
-      "name": "Laughter small",
+      "name": "Laughter - medium",
       "filename": "small_croud_laughter.mp3"
     },
     {
-      "name": "Answer - wrong answer buzzer",
+      "name": "Laughter - small",
+      "filename": "game-show-laughin.mp3"
+    },
+    {
+      "name": "Answer - wrong - buzzer",
       "filename": "buzzer-wrong-answer-gaming-sound-effect-hd.mp3"
+    }
+    {
+      "name": "Answer - wrong - Price is right horn",
+      "filename": "losing-horns_VhvZYs4.mp3"
+    },
+    {
+      "name": "Answer - wrong - mario",
+      "filename": "lost-a-life-game-over-sound-effect-8-bits.mp3"
+    },
+    {
+      "name": "Next Question - transitions",
+      "filename": "next-question.mp3"
     }
   ]
 }
