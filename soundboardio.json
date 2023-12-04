@@ -43,7 +43,7 @@
     {
       "name": "Answer - wrong - buzzer",
       "filename": "buzzer-wrong-answer-gaming-sound-effect-hd.mp3"
-    }
+    },
     {
       "name": "Answer - wrong - Price is right horn",
       "filename": "losing-horns_VhvZYs4.mp3"
@@ -54,7 +54,7 @@
     },
     {
       "name": "Next Question - transitions",
-      "filename": "next-question.mp3  "
+      "filename": "next-question.mp3"
     }
   ]
 }
