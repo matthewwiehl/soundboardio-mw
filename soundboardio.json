@@ -25,12 +25,20 @@
   ],
   "tiles": [
     {
-      "name": "Theme music",
+      "name": "Theme music - long",
       "filename": "game-show.mp3"
     },
     {
-      "name": "other sound",
+      "name": "Clapping - loud",
       "filename": "small-television.mp3"
+    },
+    {
+      "name": "Laughter small",
+      "filename": "small_croud_laughter.mp3"
+    },
+    {
+      "name": "Answer - wrong answer buzzer",
+      "filename": "buzzer-wrong-answer-gaming-sound-effect-hd.mp3"
     }
   ]
 }
